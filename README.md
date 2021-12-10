@@ -1,7 +1,8 @@
 # Snake-gamer 🐍
 Jogo da cobrinha.
 
-- Jogo da cobrinha foram Criado em Html css e JavaScript 
+- Jogo da cobrinha foram Criado em Html css e JavaScript.
+####
 Javascript: Cria um canva no html selecionado apartir de um Id. 
 Renderiza o desenho que vai acontecer dentro do canvas.
 
